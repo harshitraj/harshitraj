@@ -46,6 +46,7 @@
 ![Zuora](https://img.shields.io/badge/-Zuora-4B0082?style=flat&logo=zuora)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
 <!--[Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)-->
 
