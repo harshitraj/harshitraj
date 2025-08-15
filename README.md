@@ -1,10 +1,8 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">💼 Analyst at Deloitte | 🚀 Full Stack Developer | 📊 Zuora Developer</h3>
 
 ---
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Analyst+at+Deloitte;Full+Stack+Developer;Zuora+Developer;Problem+Solver" alt="Typing SVG" />
@@ -17,9 +15,6 @@
 - 💼 Currently working as **Analyst at Deloitte**  
 - 🎓 B.Tech in Computer Science & Engineering @ **NIT Arunachal Pradesh**  
 - 🛠 Skilled in **MERN Stack, SQL, Cloud Concepts, DSA**  
-<!--- 📚 Exploring **Cloud Computing** & **System Design**  -->
-<!--- 💬 Ask me about **Web Development, Databases, DSA**  -->
-<!--- 📫 Reach me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com**-->
 - 🌐 Connect With Me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
 
 ---
@@ -48,18 +43,7 @@
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
-<!--[Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)-->
 
-
-<!--### 📂 Featured Projects
-🌟 **[E-Commerce Platform](https://github.com/harshitraj/E-Commerce-Platform)**  
-_Full Stack (MERN, Stripe, JWT)_ – Online shopping platform with authentication & payment integration.
-
-🌟 **[Hospital Management System](https://github.com/harshitraj/Hospital-Management-System)**  
-_Full Stack (React, Node.js, MySQL)_ – Streamlined patient, doctor, and appointment management.
-
-🌟 **[Smart Diaper Monitoring & Alert System](https://github.com/harshitraj/Smart-Diaper-Monitoring)**  
-_IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detection & alert notifications.-->
 
 ---
 
@@ -75,11 +59,3 @@ _IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detectio
 </p>
 
 ---
-
-<!--### 🐍 Contribution Snake Animation
-![snake gif](https://raw.githubusercontent.com/harshitraj/harshitraj/output/github-contribution-grid-snake.svg)-->
-
-
-<!--### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)-->
-<!-- Portfolio and LeetCode links will be added later -->
