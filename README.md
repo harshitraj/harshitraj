@@ -39,7 +39,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 <!--[Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)-->
 
----
 
 <!--### 📂 Featured Projects
 🌟 **[E-Commerce Platform](https://github.com/harshitraj/E-Commerce-Platform)**  
