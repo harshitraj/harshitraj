@@ -5,7 +5,11 @@
 ---
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Analyst+at+Deloitte;Full+Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Analyst+at+Deloitte;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
