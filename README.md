@@ -41,7 +41,7 @@
 
 ---
 
-### 📂 Featured Projects
+<!--### 📂 Featured Projects
 🌟 **[E-Commerce Platform](https://github.com/harshitraj/E-Commerce-Platform)**  
 _Full Stack (MERN, Stripe, JWT)_ – Online shopping platform with authentication & payment integration.
 
@@ -49,7 +49,7 @@ _Full Stack (MERN, Stripe, JWT)_ – Online shopping platform with authenticatio
 _Full Stack (React, Node.js, MySQL)_ – Streamlined patient, doctor, and appointment management.
 
 🌟 **[Smart Diaper Monitoring & Alert System](https://github.com/harshitraj/Smart-Diaper-Monitoring)**  
-_IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detection & alert notifications.
+_IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detection & alert notifications.-->
 
 ---
 
