@@ -16,6 +16,7 @@
 <!--- 📚 Exploring **Cloud Computing** & **System Design**  -->
 <!--- 💬 Ask me about **Web Development, Databases, DSA**  -->
 - 📫 Reach me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com**
+- 🌐 Connect With Me @ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
 
 ---
 
@@ -65,10 +66,9 @@ _IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detectio
 
 ---
 
-### 🐍 Contribution Snake Animation
-![snake gif](https://raw.githubusercontent.com/harshitraj/harshitraj/output/github-contribution-grid-snake.svg)
+<!--### 🐍 Contribution Snake Animation
+![snake gif](https://raw.githubusercontent.com/harshitraj/harshitraj/output/github-contribution-grid-snake.svg)-->
 
----
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
