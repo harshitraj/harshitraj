@@ -37,7 +37,7 @@
 **Other Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+<!--[Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)-->
 
 ---
 
