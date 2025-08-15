@@ -15,8 +15,8 @@
 - 🛠 Skilled in **MERN Stack, SQL, Cloud Concepts, DSA**  
 <!--- 📚 Exploring **Cloud Computing** & **System Design**  -->
 <!--- 💬 Ask me about **Web Development, Databases, DSA**  -->
-- 📫 Reach me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com**
-- 🌐 Connect With Me @ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
+<!--- 📫 Reach me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com**-->
+- 🌐 Connect With Me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
 
 ---
 
