@@ -70,6 +70,6 @@ _IoT + Web App (Firebase, React, Node.js)_ – Real-time diaper wetness detectio
 ![snake gif](https://raw.githubusercontent.com/harshitraj/harshitraj/output/github-contribution-grid-snake.svg)-->
 
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
+<!--### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)-->
 <!-- Portfolio and LeetCode links will be added later -->
