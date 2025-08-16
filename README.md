@@ -17,7 +17,7 @@
 - 🛠 Skilled in **MERN Stack, SQL, Cloud Concepts, DSA**  
 - 🌐 Connect With Me at **rajharshit634@gmail.com** | **mrharshitt0229@gmail.com** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-raj-2ph29/)
 
----
+<!---
 
 ### 🚀 Tech Stack
 
@@ -41,7 +41,7 @@
 ![Zuora](https://img.shields.io/badge/-Zuora-4B0082?style=flat&logo=zuora)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)-->
 
 
 
